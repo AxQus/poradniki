@@ -13,5 +13,5 @@ Pause
 echo ------------------------------------
 echo 3. Instalowanie discord.js (npm i discord.js)
 echo npm install discord.js
-start npm i discord.js
+start npm i discord.js fs ascii-table 
 Pause
