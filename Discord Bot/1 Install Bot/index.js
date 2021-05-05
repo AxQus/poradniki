@@ -1,1 +1,0 @@
-wklej tutaj text 

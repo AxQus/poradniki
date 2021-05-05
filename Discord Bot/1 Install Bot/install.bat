@@ -8,11 +8,5 @@ Pause
 echo ------------------------------------
 echo 2. Zinstalowanie projektu (npm init) wypelnij wszystko
 echo npm init
-Pause
-echo ------------------------------------
-echo 3. stworz plik index.js
-echo wklej tutaj text >> index.js
-echo (https://nodejs.org/)
-echo ------------------------------------
-
+start npm init
 Pause
